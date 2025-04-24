@@ -1,0 +1,5 @@
+# Contoh penggunaan input()
+print("Siapa nama Anda?")
+nama_pengguna = input()
+# (misalnya pengguna mengetik: Citra)
+print("Halo,", nama_pengguna)

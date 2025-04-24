@@ -1,0 +1,34 @@
+requests
+beautifulsoup4
+lxml # Opsional, parser alternatif untuk beautifulsoup4
+selenium
+openpyxl
+ezsheets # Library spesifik dari buku asli untuk Google Sheets
+PyPDF2
+python-docx
+pyperclip
+PyInputPlus
+imapclient
+pyzmail # Atau pyzmail36, tergantung versi yang tersedia/kompatibel
+Pillow
+pyautogui
+opencv-python # Opsional, diperlukan untuk fitur locateOnScreen pyautogui
+send2trash
+Flask
+fastapi
+uvicorn[standard] # Perhatikan format ini saat instalasi
+pydantic
+pygame
+python-nmap # Memerlukan instalasi Nmap di sistem
+scapy # Mungkin perlu dependensi sistem & hak akses khusus
+cryptography
+paho-mqtt
+boto3
+pandas
+matplotlib
+scikit-learn
+aiohttp
+httpx
+pytest
+flake8
+black
